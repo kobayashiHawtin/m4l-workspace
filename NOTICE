@@ -1,0 +1,18 @@
+m4l-workspace
+Copyright (c) 2026 kobayashiHawtin
+Licensed under the MIT License (see LICENSE).
+
+Bundled third-party components
+------------------------------
+vendor/maxdiff
+  Copyright (c) 2024 Ableton AG
+  MIT License — see vendor/maxdiff/LICENSE.txt
+
+Runtime dependencies (not bundled)
+----------------------------------
+Cycling '74 Max and Ableton Live are required to build and run the generated
+devices, and are subject to their own license terms. MaxPyLang is installed
+via pip and is subject to its own license.
+
+The verbatim Ableton documentation that the private workspace keeps for
+reference is intentionally not included in this public mirror.
